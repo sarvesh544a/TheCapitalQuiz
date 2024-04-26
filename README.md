@@ -84,8 +84,7 @@ To ensure high-quality code, contributors are encouraged to run static analysis 
 ● This app saves user settings using PreferenceDataStore
 
 ● The project has a test plan for unit tests, with a minimum of 50% code coverage for Methods, and all tests succeed. Covered Classes are - 
-
-  ■ SettingsViewModel
+- SettingsViewModel
 
   ■ QuizViewModel
 
