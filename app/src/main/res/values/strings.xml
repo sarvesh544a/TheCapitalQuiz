@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">World Countries Quiz</string>
+
+    <!-- General Navigation -->
+    <string name="nav_back_content_description">Back</string>
+    <string name="about_content_description">Action</string>
+
+    <!-- Start Screen -->
+    <string name="start_screen_content_btn">Review Content</string>
+    <string name="start_screen_quiz_btn">Play Quiz</string>
+    <string name="start_screen_learn_btn">Learn</string>
+
+
+    <!-- Country Info Screen -->
+    <string name="country_info_screen_title">World Countries Quiz</string>
+    <string name="country_info_error">Oops! An error occurred.</string>
+    <string name="country_info_refresh_button_text">Refresh</string>
+    <string name="country_info_star_explanation_text">Starred countries needs to be reviewed \nStar a country if you want to review it again later</string>
+
+
+    <!-- Country Details Screen -->
+    <string name="country_details_error">Oops! An error occurred. Go back and try again.</string>
+
+    <!-- About Screen -->
+    <string name="about_screen_title">About</string>
+    <string name="about_screen_content">This app is developed by <b>Sarvesh Agrawal</b> for the purpose of fulfilling the Capstone project requirement for Kodeco BootCamp for Android development.</string>
+    <string name="about_screen_version">Version: %s</string>
+    <string name="needs_review">Needs Review</string>
+    <string name="error_button_retry_text">Retry</string>
+
+    <!-- Settings Screen -->
+    <string name="settings">Settings</string>
+    <string name="settings_screen_title">Settings</string>
+
+    <!-- Sorting -->
+    <string name="sort_content_description">Sort the list</string>
+</resources>
