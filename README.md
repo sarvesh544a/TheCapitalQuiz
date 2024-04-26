@@ -71,29 +71,22 @@ To ensure high-quality code, contributors are encouraged to run static analysis 
 
 * This app has an animated splash screen for launch - SplashScreen.kt
 * This app has a custom launcher icon - world.png
-
-● This app has one screen with a list using LazyColumn - CountryListScreen.kt and CountryInfoList.kt
-
-● This app supports tapping an item in this list which navigates the user to a detail view - CountryDetailsScreen.kt
-
-● This app makes a network call to https://restcountries.com/v3.1/all using Retrofit and Moshi - MainActivity.kt and CountryService.kt
-
-● The app handles all typical errors related to network calls
-
-● This app saves user settings using PreferenceDataStore
-
-● The project has a test plan for unit tests, with a minimum of 50% code coverage for Methods, and all tests succeed.
-- SettingsViewModel
-- QuizViewModel
-- CountryListViewModel
-- CountryDetailsViewModel
-- CountryRepositoryImpl
-- CountryAdapter
-
-● This App has the following - 
-- At least 4 screens (for example: splash, list, detail, about)
-- A custom app name
-- At least one Compose animation
+* This app has one screen with a list using LazyColumn - CountryListScreen.kt and CountryInfoList.kt
+* This app supports tapping an item in this list which navigates the user to a detail view - CountryDetailsScreen.kt
+* This app makes a network call to https://restcountries.com/v3.1/all using Retrofit and Moshi - MainActivity.kt and CountryService.kt
+* The app handles all typical errors related to network calls
+* This app saves user settings using PreferenceDataStore
+* The project has a test plan for unit tests, with a minimum of 50% code coverage for Methods, and all tests succeed.
+  - SettingsViewModel
+  - QuizViewModel
+  - CountryListViewModel
+  - CountryDetailsViewModel
+  - CountryRepositoryImpl
+  - CountryAdapter
+* This App has the following -
+  - At least 4 screens (for example: splash, list, detail, about)
+  - A custom app name
+  - At least one Compose animation
 
 
 
