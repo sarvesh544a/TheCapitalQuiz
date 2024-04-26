@@ -83,55 +83,18 @@ To ensure high-quality code, contributors are encouraged to run static analysis 
 
 ● This app saves user settings using PreferenceDataStore
 
-● The project has a test plan for unit tests, with a minimum of 50% code coverage for Methods, and all tests succeed. Covered Classes are - 
+● The project has a test plan for unit tests, with a minimum of 50% code coverage for Methods, and all tests succeed.
 - SettingsViewModel
-
-  ■ QuizViewModel
-
-  ■ CountryListViewModel
-
-  ■ CountryDetailsViewModel
-
-  ■ CountryRepositoryImpl  
-
-  ■ CountryAdapter
+- QuizViewModel
+- CountryListViewModel
+- CountryDetailsViewModel
+- CountryRepositoryImpl
+- CountryAdapter
 
 ● This App has the following - 
-
-  ○ At least 4 screens (for example: splash, list, detail, about)
-  ○ A custom app name
-  ○ At least one Compose animation.
-
-
-  ○ The project includes dependencies on either detekt or ktlint. Mentors will run
-either one of these gradle tasks to ensure there’s no errors that are returned.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The app has a README file including a basic explanation of the app, as well as
-explanations of how your app fulfills each of the rubric items. Identify your features and
-any specific file names so that your mentor doesn’t have to search for them while
-grading.
-● .
-● 
-
-
-
-
-
-● 
+- At least 4 screens (for example: splash, list, detail, about)
+- A custom app name
+- At least one Compose animation
 
 
 
