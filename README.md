@@ -34,28 +34,6 @@ Welcome to the Capital Quiz Game, an engaging and educational app designed to te
 + _**View Country List:**_ Select 'Country List' from the main menu to browse through all available countries and their capitals.
 + _**Search and Navigate:**_ Use the search bar to find specific countries or scroll through the list manually.
 
-## Code Quality and Contribution
-
-### Dependencies
-
-This project uses **detekt** and **ktlint** for static code analysis to maintain code quality:
-
-- _**detekt:**_ A static code analysis tool for Kotlin that helps detect code smells and maintain clean code practices.
-- _**ktlint:**_ An anti-bikeshedding Kotlin linter with built-in formatted.
-
-### Running Static Analysis
-To ensure high-quality code, contributors are encouraged to run static analysis tools before submitting pull requests:
-
-● _**Run detekt:**_
-
-./gradlew detekt
-
-● _**Run ktlint:**_
-
-./gradlew ktlintCheck
-
-
-
 ## App Code Details
 
 ### Main Screens and File names
