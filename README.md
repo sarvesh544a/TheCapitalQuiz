@@ -69,9 +69,8 @@ To ensure high-quality code, contributors are encouraged to run static analysis 
 
 ### Main Screens and File names
 
-● This app has an animated splash screen for launch - SplashScreen.kt
-
-● This app has a custom launcher icon - world.png
+* This app has an animated splash screen for launch - SplashScreen.kt
+* This app has a custom launcher icon - world.png
 
 ● This app has one screen with a list using LazyColumn - CountryListScreen.kt and CountryInfoList.kt
 
