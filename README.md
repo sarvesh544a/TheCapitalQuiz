@@ -25,11 +25,11 @@ Welcome to the Capital Quiz Game, an engaging and educational app designed to te
 + _**Mark for Review:**_ If unsure or incorrect, you can mark the country for later review by tapping the 'Mark for Review' button.
 
 ### Reviewing Marked Countries
-+ _**Access Review List:**_ From the main menu, select 'Review List' to see all countries you have marked for review.
++ _**Access Review List:**_ From the main menu, select 'Learn and Review' to see all countries you have marked for review. Ensure the Eye icon (Filter) is turned on to see only the countries marked for review.
 + _**Study Capitals:**_ Use this list to study and memorize capitals at your own pace.
 
 ### Exploring the Country List
-+ _**View Country List:**_ Select 'Country List' from the main menu to browse through all available countries and their capitals.
++ _**View Country List:**_ Select 'Learn and Review' from the main menu to browse through all available countries and their capitals.
 + _**Search and Navigate:**_ Use the search bar to find specific countries or scroll through the list manually.
 
 ## App Code Details
