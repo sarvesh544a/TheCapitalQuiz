@@ -1,4 +1,4 @@
-# Capital Quiz Game
+# The Capital Quiz Game
 Welcome to the Capital Quiz Game, an engaging and educational app designed to test your knowledge of world capitals. In this game, you will have the opportunity to answer questions about the capitals of 10 randomly selected countries. Additionally, you can mark countries for review later and explore a comprehensive list of 250 countries and their capitals.
 
 ## Features
