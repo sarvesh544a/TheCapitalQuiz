@@ -8,12 +8,10 @@ Welcome to the Capital Quiz Game, an engaging and educational app designed to te
 + _**Immediate Feedback:**_ After submitting an answer, you'll receive instant feedback indicating whether your answer was correct or incorrect. If incorrect, the correct capital will be displayed.
 + _**Scoring System:**_ Earn points for each correct answer and track your progress over time.
 
-### Review Mode
+### Learn and Review Mode
++ _**Complete Country List:**_ Browse through an extensive list of all 250 countries and their capitals. This feature is perfect for studying and familiarizing yourself with world capitals outside of the quiz context.
 + _**Bookmark Countries:**_ During the quiz, you have the option to mark any country for further review. This feature is useful for learning and mastering capitals that are challenging for you.
 + _**Review List:**_ Access a list of countries you have marked for review, allowing you to focus on areas where you need improvement.
-
-### Learn Mode
-+ _**Complete Country List:**_ Browse through an extensive list of all 250 countries and their capitals. This feature is perfect for studying and familiarizing yourself with world capitals outside of the quiz context.
 
 ## How to Use
 
