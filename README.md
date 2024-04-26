@@ -4,38 +4,48 @@ Welcome to the Capital Quiz Game, an engaging and educational app designed to te
 ## Features
 
 ### Quiz Mode
-●_**Randomly Selected Questions:**_ Each game session presents you with 10 questions, each asking for the capital of a randomly chosen country from a database of 250 countries.
-●_**Immediate Feedback:**_ After submitting an answer, you'll receive instant feedback indicating whether your answer was correct or incorrect. If incorrect, the correct capital will be displayed.
-●_**Scoring System:**_ Earn points for each correct answer and track your progress over time.
+● _**Randomly Selected Questions:**_ Each game session presents you with 10 questions, each asking for the capital of a randomly chosen country from a database of 250 countries.
+● _**Immediate Feedback:**_ After submitting an answer, you'll receive instant feedback indicating whether your answer was correct or incorrect. If incorrect, the correct capital will be displayed.
+● _**Scoring System:**_ Earn points for each correct answer and track your progress over time.
 
 ### Review Mode
-●_**Bookmark Countries:**_ During the quiz, you have the option to mark any country for further review. This feature is useful for learning and mastering capitals that are challenging for you.
-●_**Review List:**_ Access a list of countries you have marked for review, allowing you to focus on areas where you need improvement.
+● _**Bookmark Countries:**_ During the quiz, you have the option to mark any country for further review. This feature is useful for learning and mastering capitals that are challenging for you.
+● _**Review List:**_ Access a list of countries you have marked for review, allowing you to focus on areas where you need improvement.
 
 ### Learn Mode
-●_**Complete Country List:**_ Browse through an extensive list of all 250 countries and their capitals. This feature is perfect for studying and familiarizing yourself with world capitals outside of the quiz context.
+● _**Complete Country List:**_ Browse through an extensive list of all 250 countries and their capitals. This feature is perfect for studying and familiarizing yourself with world capitals outside of the quiz context.
 
 ## How to Use
 
 ### Getting Started
-●_**Download and Install the App:**_ First, ensure you have downloaded and installed the app on your device.
-●_**Open the App:**_ Launch the Capital Quiz Game from your device’s app menu.
+● _**Download and Install the App:**_ First, ensure you have downloaded and installed the app on your device.
+● _**Open the App:**_ Launch the Capital Quiz Game from your device’s app menu.
 
 ### Playing the Quiz
-●_**Start Quiz:**_ Tap on 'Start Quiz' to begin your game session.
-●_**Answer Questions:**_ Each question will present a country name and 4 capital names as options. Submit your answer to see if you were correct.
-●_**Mark for Review:**_ If unsure or incorrect, you can mark the country for later review by tapping the 'Mark for Review' button.
+● _**Start Quiz:**_ Tap on 'Start Quiz' to begin your game session.
+● _**Answer Questions:**_ Each question will present a country name and 4 capital names as options. Submit your answer to see if you were correct.
+● _**Mark for Review:**_ If unsure or incorrect, you can mark the country for later review by tapping the 'Mark for Review' button.
 
 ### Reviewing Marked Countries
-●_**Access Review List:**_ From the main menu, select 'Review List' to see all countries you have marked for review.
+● _**Access Review List:**_ From the main menu, select 'Review List' to see all countries you have marked for review.
 ●_**Study Capitals:**_ Use this list to study and memorize capitals at your own pace.
 
 ### Exploring the Country List
-●_**View Country List:**_ Select 'Country List' from the main menu to browse through all available countries and their capitals.
-●_**Search and Navigate:**_ Use the search bar to find specific countries or scroll through the list manually.
+● _**View Country List:**_ Select 'Country List' from the main menu to browse through all available countries and their capitals.
+● _**Search and Navigate:**_ Use the search bar to find specific countries or scroll through the list manually.
 
 
 
+## App Code Details
+
+### Main Screens and File names
+
+● This app has an animated splash screen for launch - SplashScreen.kt
+● This app has a custom launcher icon - world.png
+● This app has one screen with a list using LazyColumn - CountryListScreen.kt and CountryInfoList.kt
+● This app supports tapping an item in this list which navigates the user to a detail view - CountryDetailsScreen.kt
+● This app makes a network call to https://restcountries.com/v3.1/all using Retrofit and Moshi - MainActivity.kt and CountryService.kt
+● 
 
 
 
@@ -50,20 +60,10 @@ The app has a README file including a basic explanation of the app, as well as
 explanations of how your app fulfills each of the rubric items. Identify your features and
 any specific file names so that your mentor doesn’t have to search for them while
 grading.
-● The app has a splash screen suitable for the app.
-○ It can be either a static or animated launch screen.
-● The app has a custom launcher icon.
-● All features in the app should be completed.
-○ Any unfinished feature should be moved to a different branch.
-● The app has at least one screen with a list using a view of your choice (LazyColumn,
-LazyRow, etc).
-● Each item in the list should contain (as a minimum) a name, a subtitle or description, and
-an image of the item, and any text should be styled appropriately.
-○ Tapping an item in this list should navigate to a detail view: This should show the
-same data in the list item with some further details such as a longer description,
-bigger picture, price or a Buy/Order button.
-○ Include enough items to ensure that the user has to scroll the list to see all the
-items in it.
+● .
+● 
+
+
 ● The app has one or more network calls using a library like Retrofit to
 download/upload data that relate to the core tasks of the app. The app’s repo does not
 contain API keys or other authentication information: Don’t store API keys or other
