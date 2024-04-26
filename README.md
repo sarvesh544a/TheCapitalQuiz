@@ -5,11 +5,14 @@ Welcome to the Capital Quiz Game, an engaging and educational app designed to te
 
 ### Quiz Mode
 ● _**Randomly Selected Questions:**_ Each game session presents you with 10 questions, each asking for the capital of a randomly chosen country from a database of 250 countries.
+
 ● _**Immediate Feedback:**_ After submitting an answer, you'll receive instant feedback indicating whether your answer was correct or incorrect. If incorrect, the correct capital will be displayed.
+
 ● _**Scoring System:**_ Earn points for each correct answer and track your progress over time.
 
 ### Review Mode
 ● _**Bookmark Countries:**_ During the quiz, you have the option to mark any country for further review. This feature is useful for learning and mastering capitals that are challenging for you.
+
 ● _**Review List:**_ Access a list of countries you have marked for review, allowing you to focus on areas where you need improvement.
 
 ### Learn Mode
@@ -19,19 +22,24 @@ Welcome to the Capital Quiz Game, an engaging and educational app designed to te
 
 ### Getting Started
 ● _**Download and Install the App:**_ First, ensure you have downloaded and installed the app on your device.
+
 ● _**Open the App:**_ Launch the Capital Quiz Game from your device’s app menu.
 
 ### Playing the Quiz
 ● _**Start Quiz:**_ Tap on 'Start Quiz' to begin your game session.
+
 ● _**Answer Questions:**_ Each question will present a country name and 4 capital names as options. Submit your answer to see if you were correct.
+
 ● _**Mark for Review:**_ If unsure or incorrect, you can mark the country for later review by tapping the 'Mark for Review' button.
 
 ### Reviewing Marked Countries
 ● _**Access Review List:**_ From the main menu, select 'Review List' to see all countries you have marked for review.
+
 ●_**Study Capitals:**_ Use this list to study and memorize capitals at your own pace.
 
 ### Exploring the Country List
 ● _**View Country List:**_ Select 'Country List' from the main menu to browse through all available countries and their capitals.
+
 ● _**Search and Navigate:**_ Use the search bar to find specific countries or scroll through the list manually.
 
 
