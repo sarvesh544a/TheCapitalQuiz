@@ -15,7 +15,7 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="34">
         <activity
-            android:name="com.kodeco.android.worldcountriesquiz.MainActivity"
+            android:name="com.kodeco.android.captialquizgame.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.MyApplication">
             <intent-filter>

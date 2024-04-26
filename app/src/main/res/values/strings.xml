@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">World Countries Quiz</string>
+    <string name="app_name">The Capital Quiz Game</string>
 
     <!-- General Navigation -->
     <string name="nav_back_content_description">Back</string>
@@ -12,7 +12,7 @@
 
 
     <!-- Country Info Screen -->
-    <string name="country_info_screen_title">World Countries Quiz</string>
+    <string name="country_info_screen_title">The Capital Quiz Game</string>
     <string name="country_info_error">Oops! An error occurred.</string>
     <string name="country_info_refresh_button_text">Refresh</string>
     <string name="country_info_star_explanation_text">Starred countries needs to be reviewed \nStar a country if you want to review it again later</string>
