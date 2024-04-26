@@ -49,8 +49,8 @@ Welcome to the Capital Quiz Game, an engaging and educational app designed to te
 
 This project uses **detekt** and **ktlint** for static code analysis to maintain code quality:
 
-● _**detekt:**_ A static code analysis tool for Kotlin that helps detect code smells and maintain clean code practices.
-● _**ktlint:**_ An anti-bikeshedding Kotlin linter with built-in formatted.
+- _**detekt:**_ A static code analysis tool for Kotlin that helps detect code smells and maintain clean code practices.
+- _**ktlint:**_ An anti-bikeshedding Kotlin linter with built-in formatted.
 
 ### Running Static Analysis
 To ensure high-quality code, contributors are encouraged to run static analysis tools before submitting pull requests:
